@@ -5,6 +5,15 @@
 Gies College of Business, University of Illinois Urbana-Champaign  
 Instructor: **Prof. Subramanyam Ramanath**
 
+
+
+## 🧠 Predictive Modeling
+
+The classification model was developed using Python and scikit-learn.  
+The full modeling workflow, feature engineering, and evaluation logic can be found here:
+
+📓 [`transfer_classification_model.ipynb`](notebooks/transfer_classification_model.ipynb)
+
 ---
 
 ## 🎯 Project Objective
